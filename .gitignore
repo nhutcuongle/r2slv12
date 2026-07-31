@@ -1,0 +1,7 @@
+# Bo qua thu muc laptrinhC
+laptrinhC/
+
+# Bo qua cac file thuc thi và file rác
+*.exe
+*.o
+*.obj
